@@ -6,7 +6,7 @@ This project is a front-end clone of the Udemy website, built using HTML5 and CS
 
 The Udemy Clone website replicates the core UI design of the original platform, including course listings, navigation bars, banners, and footer sections. This project focuses purely on front-end development and does not include backend functionality such as authentication or payment processing.
 
-GitHub Link:
+GitHub Link:https://github.com/Ajithkum179/Udemy-clone-website-1
 🛠️ Technologies Used
 
 HTML5 – Structure and content
